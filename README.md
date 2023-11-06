@@ -5,6 +5,8 @@
 </p>
 <h3 align="center">My Featured Applications</h3>
 <p align="center">
+<a href="https://apps.apple.com/us/app/wordlab-learn-english-words/id6469453478" target="_blank" rel="noreferrer"> <img src="https://github.com/devyavuzulgar/devyavuzulgar/assets/121100438/9219dbed-f2bb-4cd7-be24-34720bcd68de" alt="app" width="720" height="360"/> </a> </p>
+<p align="center">
 <a href="https://apps.apple.com/app/taskbox-to-do-list-tasks/id6463778616" target="_blank" rel="noreferrer"> <img src="https://github.com/devyavuzulgar/devyavuzulgar/blob/main/taskbox2.png?raw=true" alt="app" width="720" height="360"/> </a> </p>
 <p align="center">
 <a href="https://apps.apple.com/us/app/lantra-learn-english/id6450149905" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121100438/245253431-45a74643-2531-46a7-b2d6-a8c213a5f24e.png" alt="app" width="720" height="360"/> </a> </p>
